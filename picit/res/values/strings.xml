@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pic it</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_categories">Categories</string>
+    <string name="action_photo">Camera</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="title_activity_upload_to_serve">UploadToServe</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    
+    <string name="error_login1">Username or password cannot be empty</string>
+    <string name="error_login2">Username or password is not valid</string>
+    
+    <string name="error_signup1">Username, password or email cannot be empty</string>
+    <string name="error_signup2">Username, password or email is not valid</string>
+    
+    <string name="login">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="upload">Upload</string>
+    <string name="caption_hint">Caption</string>
+    
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Password</string>
+    
+
+</resources>
